@@ -1,5 +1,6 @@
 from typing import List, Union
 
+
 def calculate_average(numbers: List[Union[int, float]]) -> float:
     """数値のリストの平均値を計算します。
 
