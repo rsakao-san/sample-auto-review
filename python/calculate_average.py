@@ -5,6 +5,7 @@ def calculate_average(numbers):
     average = total / len(numbers)
     return average
 
+
 # テスト用のリスト
 numbers = [1, 2, 3, 4, 5]
 print("Average:", calculate_average(numbers))
